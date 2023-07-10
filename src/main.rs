@@ -1024,8 +1024,8 @@ fn main() {
         // "Concept Design of a System Architecture for a Manufacturing Cyber-physical Digital Twin System", // no
         // "Concept For An Interoperable Behavior Library For Virtual Commissioning Using PLCopenXML", // no
         // "Context-aware scheduling and control architecture for cyber-physical production systems", // no
-        "Control components for Collaborative and Intelligent Automation Systems",
-        "Cooperative Control for Industrial Multi-agent Systems: Framework and Problems",
+        // "Control components for Collaborative and Intelligent Automation Systems", // ctrl
+        // "Cooperative Control for Industrial Multi-agent Systems: Framework and Problems", // no
         // "Cooperative Robotics and Machine Learning for Smart Manufacturing: Platform Design and Trends Within the Context of Industrial Internet of Things", // no
         // "Cyber and Physical Systems Topology for the Industry 4.0 Smart Factory", // no
         // "Cyber-Physical Machine Tools towards Digitalisation and Servitisation of Manufacturing", // no
@@ -1033,91 +1033,89 @@ fn main() {
         // "Cyber-Physical Production Systems supported by Intelligent Devices (SmartBoxes) for Industrial Processes Digitalization", // no
         // "Cyber-Physical System Implementation for Manufacturing With Analytics in the Cloud Layer", // no
         // "Cyber-Physical Systems for Industrial Applications", // no
-        "Cyber-physical microservices: An IoT-based framework for manufacturing systems",
-        "Cyber-physical production systems architecture based on multi-agent's design pattern—comparison of selected approaches mapping four agent patterns",
-        "Cyber-physical production systems for SMEs-A generic multi agent based architecture and case study",
-        "Cyber-physical system architecture for machining production line",
-        "DINASORE: A dynamic intelligent reconfiguration tool for cyber-physical production systems",
-        "Data-driven framework to improve collaborative human-robot flexible manufacturing applications",
-        "Decentralized Autonomous Architecture for Resilient Cyber-Physical Production Systems",
-        "Decentralized Task and Path Planning for Multi-Robot Systems",
-        "Demonstration of an industrial framework for an implementation of a process digital twin",
-        "Design Patterns in Building Software for a Middle Size League Robot Using Robot Operating System",
-        "Design and Development of a Research Oriented Low Cost Robotics Platform with a Novel Dynamic Global Path Planning Approach",
-        "Design and Implementation of Runtime Verification Framework for Cyber-Physical Production Systems",
-        "Design and Implementation of Software Based on Visual Simulation for Cargo Picking and Placing of Space Manipulator",
-        "Design of Flexible Cyber-Physical Production Systems Architecture for Industrial Robot Control",
-        "Design of a Framework for Implementation of Industrial Robot Manipulation Using PLC and ROS 2",
-        "Design of a flexible robot cell demonstrator based on CPPS concepts and technologies",
-        "Design of cyber physical system architecture for industry 4.0 through lean six sigma: conceptual foundations and research issues",
-        "Design patterns for the implementation of Industrial Agent-based AASs",
-        "Developing Production-Grade Applications with ROS 2",
-        "Developing a Testing Framework for Cyber-Physical Systems using Gazebo",
-        "Developing an Improved Software Architecture Framework for Smart Manufacturing",
-        "Developing an engineering tool for Cyber-Physical Production Systems",
-        "Developing sensor signal-based digital twins for intelligent machine tools",
-        "Development and Deployment of Complex Robotic Applications using Containerized Infrastructures",
-        "Development of Digital twin for Plug-and-Produce of a Machine tending system through ISO 21919 interface",
-        "Development of Intelligent Behaviors for Social Robots via User-Friendly and Modular Programming Tools",
-        "Development of a structural framework to improve reconfigurable manufacturing system adoption in the manufacturing industry",
-        "Development of an Event-Driven System Architecture for Smart Manufacturing",
-        "Development of the Architecture and Reconfiguration Methods for the Smart, Self-Reconfigurable Manufacturing System",
-        "Digital Twin Enabled Smart Control Engineering as an Industrial AI: A New Framework and Case Study",
-        "Digital Twin Framework for Reconfigurable Manufacturing Systems: Challenges and Requirements",
-        "Digital Twin and Industrial Internet of Things Architecture to Reduce Carbon Emissions",
-        "Digital Twin as Industrial Robots Manipulation Validation Tool",
-        "Digital Twin: Toward the Integration Between System Design and RAMS Assessment Through the Model-Based Systems Engineering",
-        "Digital Twins Approach for Sustainable Industry",
-        "Digital twin based virtual commissioning for computerized numerical control machine tools",
-        "Digital twin for adaptation of robots behavior in flexible robotic assembly lines",
-        "Digital twin for adaptation of robots' behavior in flexible robotic assembly lines",
-        "Digital twin for smart manufacturing: a review of concepts towards a practical industrial implementation",
-        "Digital twin framework for reconfigurable manufacturing systems (RMSs): design and simulation",
-        "Digital twin modeling method for CNC machine tool",
-        "Digital twin-based cyber physical production system architectural framework for personalized production",
-        "Digital twin-based industrial cloud robotics: Framework, control approach and implementation",
-        "Digital twin-driven virtual commissioning of machine tool",
-        "Digital twins in manufacturing: An assessment of key features",
-        "Discrete Event Simulation as a Robust Supporting Tool for Smart Manufacturing",
-        "Distributed and Synchronized Setup towards Real-Time Robotic Control using ROS2 on Linux",
-        "Documentation and Modeling of ROS Systems",
-        "Dynamic reconfiguration optimization of intelligent manufacturing system with human-robot collaboration based on digital twin",
-        "Dynamically Wiring CPPS Software Architectures",
-        "Efficient Industrial Solution for Robotic Task Sequencing Problem With Mutual Collision Avoidance & Cycle Time Optimization",
-        "Empowering The Eclipse Arrowhead Framework with a Digital Twin as a Proxy Service",
-        "Engineering Method and Tool for the Complete Virtual Commissioning of Robotic Cells",
-        "Enhancing a Biological inspired Self-organized Architecture towards Smart Manufacturing",
-        "Evaluating Skill-Based Control Architecture for Flexible Automation Systems",
-        "Evaluation of Cognitive Architectures for Cyber-Physical Production Systems",
-        "Event-Driven Programming of FPGA-accelerated ROS 2 Robotics Applications",
-        "Fault injection in Digital Twin as a means to test the response to process faults at virtual commissioning",
-        "Flexible Production Systems: Automated Generation of Operations Plans Based on ISA-95 and PDDL",
-        "Flexible work cell simulator using digital twin methodology for highly complex systems in industry 4.0",
-        "Flow-Based ROS2 Programming Environment for Control Drone",
-        "Formal Verification of ROS Based Systems Using a Linear Logic Theorem Prover",
-        "Generating ROS-based Software for Industrial Cyber-Physical Systems from UML/MARTE",
-        "Generating Safe Autonomous Decision-Making in ROS",
-        "Generic Autonomic Management as a Service in a SOA-based Framework for Industry 4.0",
-        "Generic ROS-based Architecture for Heterogeneous Multi-Autonomous Systems Development",
-        "Generic digital twin architecture for industrial energy systems",
-        "How to build and validate a safe and reliable Autonomous Driving stack? A ROS based software modular architecture baseline",
-        "Hybrid Commissioning of Production Plants",
-        "Hybrid learning-based digital twin for manufacturing process: Modeling framework and implementation",
-        "INDUSTRIAL COLLABORATIVE ROBOT DIGITAL TWIN INTEGRATION AND CONTROL USING ROBOT OPERATING SYSTEM",
-        "Implementation of Digital Twin-based Virtual Commissioning in Machine Tool Manufacturing",
-        "Implementation of Industrial Cyber Physical System: Challenges and Solutions",
-        "Implementation of PLC controller connected Gazebo-ROS to support IEC 61131-3",
-        "Implementation of industrial cyber physical system: Challenges and solutions",
-        "Improving interoperability of Virtual Commissioning toolchains by using OPC-UA-based technologies",
-        "Industrial IoT and Digital Twins for a Smart Factory : An open source toolkit for application design and benchmarking",
-        "Integrated Cyber Physical Simulation Modelling Environment for Manufacturing 4.0",
-        "Integrated production and maintenance planning in cyber-physical production systems",
-        "Integrated virtual commissioning of a ROS2-based collaborative and intelligent automation system",
-        "Integration challenges for the deployment of a multi-stage zero-defect manufacturing architecture",
-        "Integration of a formal specification approach into CPPS engineering workflow for machinery validation",
-        "Intelligent Automation Framework Using AI and RPA: An Introduction",
-        "Intelligent Manufacturing with Digital Twin",
-        "Intelligent manufacturing system with human-cyber-physical fusion and collaboration for process fine control",
+        // "Cyber-physical microservices: An IoT-based framework for manufacturing systems",  // no
+        // "Cyber-physical production systems architecture based on multi-agent's design pattern—comparison of selected approaches mapping four agent patterns", // no
+        // "Cyber-physical production systems for SMEs-A generic multi agent based architecture and case study", // no
+        // "Cyber-physical system architecture for machining production line", // no
+        // "DINASORE: A dynamic intelligent reconfiguration tool for cyber-physical production systems", // no
+        // "Data-driven framework to improve collaborative human-robot flexible manufacturing applications", // no
+        // "Decentralized Autonomous Architecture for Resilient Cyber-Physical Production Systems", // no
+        // "Decentralized Task and Path Planning for Multi-Robot Systems", // ctrl
+        // "Demonstration of an industrial framework for an implementation of a process digital twin", // no
+        // "Design Patterns in Building Software for a Middle Size League Robot Using Robot Operating System", // no
+        // "Design and Development of a Research Oriented Low Cost Robotics Platform with a Novel Dynamic Global Path Planning Approach", // no
+        // "Design and Implementation of Runtime Verification Framework for Cyber-Physical Production Systems", // no
+        // "Design and Implementation of Software Based on Visual Simulation for Cargo Picking and Placing of Space Manipulator", // no
+        // "Design of Flexible Cyber-Physical Production Systems Architecture for Industrial Robot Control", // no
+        // "Design of a Framework for Implementation of Industrial Robot Manipulation Using PLC and ROS 2", // close...
+        // "Design of a flexible robot cell demonstrator based on CPPS concepts and technologies", // ok
+        // "Design of cyber physical system architecture for industry 4.0 through lean six sigma: conceptual foundations and research issues", // no
+        // "Design patterns for the implementation of Industrial Agent-based AASs", // no
+        // "Developing Production-Grade Applications with ROS 2", // no
+        // "Developing a Testing Framework for Cyber-Physical Systems using Gazebo", // no
+        // "Developing an Improved Software Architecture Framework for Smart Manufacturing", // no
+        // "Developing an engineering tool for Cyber-Physical Production Systems", // close...
+        // "Developing sensor signal-based digital twins for intelligent machine tools", // no
+        // "Development and Deployment of Complex Robotic Applications using Containerized Infrastructures", // close...
+        // "Development of Digital twin for Plug-and-Produce of a Machine tending system through ISO 21919 interface", // close...
+        // "Development of Intelligent Behaviors for Social Robots via User-Friendly and Modular Programming Tools",
+        // "Development of a structural framework to improve reconfigurable manufacturing system adoption in the manufacturing industry", // no
+        // "Development of an Event-Driven System Architecture for Smart Manufacturing", // no
+        // "Development of the Architecture and Reconfiguration Methods for the Smart, Self-Reconfigurable Manufacturing System", // no
+        // "Digital Twin Enabled Smart Control Engineering as an Industrial AI: A New Framework and Case Study", // no
+        // "Digital Twin Framework for Reconfigurable Manufacturing Systems: Challenges and Requirements", // no
+        // "Digital Twin and Industrial Internet of Things Architecture to Reduce Carbon Emissions", // no
+        // "Digital Twin as Industrial Robots Manipulation Validation Tool", // no
+        // "Digital Twin: Toward the Integration Between System Design and RAMS Assessment Through the Model-Based Systems Engineering", // no
+        // "Digital Twins Approach for Sustainable Industry", // no
+        // "Digital twin based virtual commissioning for computerized numerical control machine tools", // ok
+        // "Digital twin for adaptation of robots behavior in flexible robotic assembly lines", // no
+        // "Digital twin for smart manufacturing: a review of concepts towards a practical industrial implementation", // no
+        // "Digital twin framework for reconfigurable manufacturing systems (RMSs): design and simulation", // no
+        // "Digital twin modeling method for CNC machine tool", // no
+        // "Digital twin-based cyber physical production system architectural framework for personalized production", // no
+        // "Digital twin-based industrial cloud robotics: Framework, control approach and implementation", // close ...
+        // "Digital twin-driven virtual commissioning of machine tool", // close...
+        // "Digital twins in manufacturing: An assessment of key features", // no
+        // "Discrete Event Simulation as a Robust Supporting Tool for Smart Manufacturing", // no
+        // "Distributed and Synchronized Setup towards Real-Time Robotic Control using ROS2 on Linux",  // no
+        // "Documentation and Modeling of ROS Systems", // no
+        // "Dynamic reconfiguration optimization of intelligent manufacturing system with human-robot collaboration based on digital twin", // no
+        // "Dynamically Wiring CPPS Software Architectures", // no
+        // "Efficient Industrial Solution for Robotic Task Sequencing Problem With Mutual Collision Avoidance & Cycle Time Optimization", // no
+        // "Empowering The Eclipse Arrowhead Framework with a Digital Twin as a Proxy Service", // no
+        // "Engineering Method and Tool for the Complete Virtual Commissioning of Robotic Cells", // ok
+        // "Enhancing a Biological inspired Self-organized Architecture towards Smart Manufacturing", // no
+        // "Evaluating Skill-Based Control Architecture for Flexible Automation Systems", // ctrl
+        // "Evaluation of Cognitive Architectures for Cyber-Physical Production Systems", // no
+        // "Event-Driven Programming of FPGA-accelerated ROS 2 Robotics Applications", // no
+        // "Fault injection in Digital Twin as a means to test the response to process faults at virtual commissioning", // no
+        // "Flexible Production Systems: Automated Generation of Operations Plans Based on ISA-95 and PDDL", // ok
+        // "Flexible work cell simulator using digital twin methodology for highly complex systems in industry 4.0", // no
+        // "Flow-Based ROS2 Programming Environment for Control Drone", // no
+        // "Formal Verification of ROS Based Systems Using a Linear Logic Theorem Prover", // no
+        // "Generating ROS-based Software for Industrial Cyber-Physical Systems from UML/MARTE", // ok
+        // "Generating Safe Autonomous Decision-Making in ROS", // no 
+        // "Generic Autonomic Management as a Service in a SOA-based Framework for Industry 4.0", // no
+        // "Generic ROS-based Architecture for Heterogeneous Multi-Autonomous Systems Development", // no
+        // "Generic digital twin architecture for industrial energy systems", // no
+        // "How to build and validate a safe and reliable Autonomous Driving stack? A ROS based software modular architecture baseline", // no
+        // "Hybrid Commissioning of Production Plants", // no
+        // "Hybrid learning-based digital twin for manufacturing process: Modeling framework and implementation", // no
+        // "INDUSTRIAL COLLABORATIVE ROBOT DIGITAL TWIN INTEGRATION AND CONTROL USING ROBOT OPERATING SYSTEM", // no
+        // "Implementation of Digital Twin-based Virtual Commissioning in Machine Tool Manufacturing", // no
+        // "Implementation of Industrial Cyber Physical System: Challenges and Solutions", // no
+        // "Implementation of PLC controller connected Gazebo-ROS to support IEC 61131-3", // no
+        // "Improving interoperability of Virtual Commissioning toolchains by using OPC-UA-based technologies", // no
+        // "Industrial IoT and Digital Twins for a Smart Factory : An open source toolkit for application design and benchmarking", // no
+        // "Integrated Cyber Physical Simulation Modelling Environment for Manufacturing 4.0", // no
+        // "Integrated production and maintenance planning in cyber-physical production systems", // no
+        // "Integrated virtual commissioning of a ROS2-based collaborative and intelligent automation system", // ok
+        // "Integration challenges for the deployment of a multi-stage zero-defect manufacturing architecture", // no
+        // "Integration of a formal specification approach into CPPS engineering workflow for machinery validation", // close...
+        // "Intelligent Automation Framework Using AI and RPA: An Introduction", // no
+        // "Intelligent Manufacturing with Digital Twin", // no
+        // "Intelligent manufacturing system with human-cyber-physical fusion and collaboration for process fine control", // no
         "Interactive formal specification for efficient preparation of intelligent automation systems",
         "Internet of things based cyber-physical system framework for real-time operations",
         "Interoperability Between ROS and OPC UA: A Local Cloud-Based Approach",
@@ -1251,7 +1249,21 @@ fn main() {
         "A hybrid modeling methodology for cyber physical production systems: framework and key techniques",
         "A product-process-resource based formal modelling framework for customized manufacturing in cyber-physical production systems",
         "Advanced tools for the control engineer in Industry 4.0",
-        "Applying MDE to ROS systems: A comparative analysis"
+        "Applying MDE to ROS systems: A comparative analysis",
+        "Design of a Framework for Implementation of Industrial Robot Manipulation Using PLC and ROS 2", // close...
+        "Design of a flexible robot cell demonstrator based on CPPS concepts and technologies",
+        "Developing an engineering tool for Cyber-Physical Production Systems", // close...
+        "Development and Deployment of Complex Robotic Applications using Containerized Infrastructures", // close...
+        "Development of Digital twin for Plug-and-Produce of a Machine tending system through ISO 21919 interface", // close...
+        "Development of Intelligent Behaviors for Social Robots via User-Friendly and Modular Programming Tools",
+        "Digital twin based virtual commissioning for computerized numerical control machine tools",
+        "Digital twin-based industrial cloud robotics: Framework, control approach and implementation", // close...
+        "Digital twin-driven virtual commissioning of machine tool", // close...
+        "Engineering Method and Tool for the Complete Virtual Commissioning of Robotic Cells",
+        "Flexible Production Systems: Automated Generation of Operations Plans Based on ISA-95 and PDDL",
+        "Generating ROS-based Software for Industrial Cyber-Physical Systems from UML/MARTE",
+        "Integrated virtual commissioning of a ROS2-based collaborative and intelligent automation system",
+        "Integration of a formal specification approach into CPPS engineering workflow for machinery validation", // close...
 
 
     );
@@ -1263,16 +1275,20 @@ fn main() {
         "A Middleware Platform for Intelligent Automation: An Industrial Prototype Implementation",
         "A Software Architecture for Service Robots Manipulating Objects in Human Environments",
         "Application of the sequence planner control framework to an intelligent automation system with a focus on error handling",
-
+        "Control components for Collaborative and Intelligent Automation Systems",
+        "Decentralized Task and Path Planning for Multi-Robot Systems",
+        "Evaluating Skill-Based Control Architecture for Flexible Automation Systems",
 
     );
 
     let stage_3_vc = vec!(
         "A Virtual Commissioning Selection Approach for Machine Automation",
+        "Empowering The Eclipse Arrowhead Framework with a Digital Twin as a Proxy Service"
     );
 
     let for_the_adversary_journal = vec!(
         "A Digital Twin Based Industrial Automation and Control System Security Architecture",
+        "Fault injection in Digital Twin as a means to test the response to process faults at virtual commissioning",
     );
 
 }
