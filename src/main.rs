@@ -1298,16 +1298,12 @@ fn main() {
 
     );
 
-    let stage_3_vc = vec!(
+    let found_extra = vec!(
         "A Virtual Commissioning Selection Approach for Machine Automation",
-        "Empowering The Eclipse Arrowhead Framework with a Digital Twin as a Proxy Service"
-    );
-
-    let for_the_adversary_journal = vec!(
+        "Empowering The Eclipse Arrowhead Framework with a Digital Twin as a Proxy Service",
         "A Digital Twin Based Industrial Automation and Control System Security Architecture",
         "Fault injection in Digital Twin as a means to test the response to process faults at virtual commissioning",
         "Property-based testing for the robot operating system",
         "Verification of system-wide safety properties of ROS applications",
     );
-
 }
